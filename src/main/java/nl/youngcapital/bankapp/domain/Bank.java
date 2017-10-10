@@ -39,11 +39,6 @@ public class Bank {
 	public void setNaam(String naam) {
 		this.naam = naam;
 	}
-	public Long getKluisInhoud() {
-		return kluisInhoud;
-	}
-	public void setKluisInhoud(Long kluisInhoud) {
-		this.kluisInhoud = kluisInhoud;
-	}
+
 
 }
